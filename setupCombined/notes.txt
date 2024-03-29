@@ -1,0 +1,4 @@
+'''
+Dev notes:
+conform data from web server wifi file and config form, use to write secretVars.py
+run OTA once to get config.json or manifest to build config.json

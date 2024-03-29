@@ -1,0 +1,12 @@
+{
+  "NAME": "test",
+  "UPDATEPATH": "https://raw.githubusercontent.com/EvolvedSupplyChain/otaTest/main/",
+  "FILEMANIFEST": [
+    {
+      "FILENAME": "config.json",
+      "VERSION": "0",
+      "CHECKFLAG": false
+    }
+  ],
+  "BOOTMODE": 0
+}

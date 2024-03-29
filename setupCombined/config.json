@@ -1,0 +1,31 @@
+{
+  "NAME": "test",
+  "USER": "bob@bob.com",
+  "UID": "blah",
+  "LOCALE": [0.0000,0.0000],
+  "CONTEXT": "indoor",
+  "SSID": "foo",
+  "WIPASS": "bar",
+  "PREFIX": "plantname",
+  "QTY": 3,
+  "UPDATEPATH": "https://raw.githubusercontent.com/EvolvedSupplyChain/otaTest/main/",
+  "FILEMANIFEST": [
+    {
+      "FILENAME": "logger.py",
+      "VERSION": "3",
+      "CHECKFLAG": true
+    },
+    {
+      "FILENAME": "test.txt",
+      "VERSION": "6",
+      "CHECKFLAG": false
+    },
+    {
+      "FILENAME": "main.py",
+      "VERSION": "3",
+      "CHECKFLAG": false
+    }
+  ],
+  "BOOTMODE": 0,
+  "FORCECONFIG": false
+}
